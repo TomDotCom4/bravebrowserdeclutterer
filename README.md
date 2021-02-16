@@ -7,6 +7,7 @@ INSTRUCTIONS:
 
 1. Fullscreen your Brave Profile on the "welcome screen"
 2. Hit F10 to run it.
+3. Ensure that your display is set to 1080p and scaled to 100% and that your Windows taskbar is pinned at the bottom of the screen while your Brave Browser is fullscreened before starting the script.
 
 WHAT WILL IT DO
 
