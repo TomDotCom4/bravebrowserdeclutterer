@@ -9,6 +9,8 @@ INSTRUCTIONS:
 2. Hit F10 to run it.
 3. Ensure that your display is set to 1080p and scaled to 100% and that your Windows taskbar is pinned at the bottom of the screen while your Brave Browser is fullscreened before starting the script.
 
+You can also use the .exe file to run it and not need AutoHotKey installed.
+
 WHAT WILL IT DO
 
 - Change your search engine from DuckDuckGo to StartPage
