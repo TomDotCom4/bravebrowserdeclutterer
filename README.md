@@ -3,6 +3,11 @@ Brave is cool but has lots of gunk. Lets fix it.
 
 Works as of whatever Brave version is current on 16/02/2021
 
+THE TWO VERSIONS
+
+- The script titled "BraveDeclutterer" will do everything in the "What Will It Do" section
+- The script titled "BraveDeclutterer(NoExtensions)" will do everything in the "What Will It Do" section except for installing extensions.
+
 INSTRUCTIONS:
 
 1. Fullscreen your Brave Profile on the "welcome screen"
