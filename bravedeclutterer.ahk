@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 F10::
 
-;Open Extension tabs for uBlock Origin, Site Blocker, Bitwarden, ClearURLs
+;Open Extension tabs for uBlock Origin, Bitwarden, ClearURLs
 Send, ^t brave://settings/getStarted {enter}
 Sleep, 500
 Send, ^t https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en {enter}
